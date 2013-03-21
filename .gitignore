@@ -1,0 +1,4 @@
+.project
+.classpath
+war/WEB-INF/classes/
+.settings/
